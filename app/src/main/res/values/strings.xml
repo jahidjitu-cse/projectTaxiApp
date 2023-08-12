@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Taxi App</string>
+    <string name="click_if_you_are_a_customer">Click If You Are A Customer</string>
+    <string name="click_if_you_are_a_driver">Click If You Are A Driver</string>
+    <string name="customer_login">Customer Login</string>
+    <string name="enter_the_password">Enter The Password....</string>
+    <string name="enter_a_valid_email">Enter A Valid Email....</string>
+    <string name="press_to_login">Press To Login</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account</string>
+    <string name="register_here">REGISTER HERE</string>
+    <string name="driver_login">Driver Login</string>
+    <string name="title_activity_driver_login_register">DriverLoginRegister_act</string>
+    <string name="for_taxi_accessories">For Taxi Accessories</string>
+    <string name="for_taxi_mechanic">For Taxi Mechanic</string>
+    <string name="for_taxi_ride">For Taxi Ride</string>
+    <string name="for_parcel_package">For Parcel</string>
+    <string name="title_activity_driver_map">DriverMapActivity</string>
+    <string name="title_activity_home">Home_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
